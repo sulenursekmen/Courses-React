@@ -4,31 +4,31 @@
             "id":1,
             "content":"fdgfdgdfg",
             "title":"c",
-            "price":60
+            "price":1
         },
         {
             "id":2,
             "content":"fdgfdgdfg",
             "title":"c",
-            "price":99
+            "price":2
         },
         {
             "id":3,
             "content":"fdgfdgdfg",
             "title":"c",
-            "price":69
+            "price":3
         },
         {
             "id":4,
             "content":"fdgfdgdfg",
             "title":"c",
-            "price":69
+            "price":4
         },
         {
             "id":5,
             "content":"fdgfdgdfg",
             "title":"c",
-            "price":69
+            "price":5
         }
       
       
